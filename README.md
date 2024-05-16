@@ -1,5 +1,5 @@
 <h1>仓库介绍</h1>
-<p>本仓库用于发布灵办免费网页翻译扩展的 <a href="https://github.com/lingban-free-translate/lingban-free-translate">Release 版本</a>以及使用 <a href="https://github.com/lingban-free-translate/lingban-free-translate/issues">Github Issues</a>收集和跟进用户反馈。</p>
+<p>本仓库用于发布灵办免费网页翻译扩展的 <a href="https://github.com/lingban-free-translate/lingban-free-translate/releases">Release 版本</a>以及使用 <a href="https://github.com/lingban-free-translate/lingban-free-translate/issues">Github Issues</a>收集和跟进用户反馈。</p>
 <p><a href="https://ilingban.com/?from=github">灵办免费网页翻译助手</a>并非开源软件，这个仓库并 <strong>不包含</strong> 灵办AI的源代码。</p>
 <p><a href="https://ilingban.com/?from=github">点击安装灵办免费网页翻译助手</a></p>
 <p>主要特色：</p>
